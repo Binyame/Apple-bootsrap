@@ -1,3 +1,3 @@
 # Apple-bootsrap
 
-This is replica of Appel website (apple.com). This project focus only on the homepage. 
+This is a replica of Appel website [apple.com] https://www.apple.com as it appears on March 25. The project focuses only on the homepage. 
